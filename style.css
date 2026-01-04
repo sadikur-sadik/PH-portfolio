@@ -1,0 +1,48 @@
+*{margin: 0px;
+
+  padding: 0px;
+}
+header{margin-bottom: 0px;}
+.img-logo{
+  height:30px;
+  width: 30px;
+  margin: 10px 0px 5px 15px;
+}
+
+.name{
+  padding: 5px 0px 10px 5px;
+  margin: 0px 0px 10px 0px ;
+  color:hsl(0, 11%, 11%);
+  font-size: xx-large;
+}
+.designName{
+  color: aqua;
+  font-weight: bold;
+
+}
+.title-story{ margin:0px;
+  background-color: #174232;
+  height: 1000px;
+  width: auto;
+}
+.titleOfstory{
+
+  color:white;
+  font-weight: bolder;
+  margin: 10px 0px 10px 40%;
+  font-size: larger;
+  text-decoration: underline;
+
+}
+
+.pic{
+  margin: 100px 0px 10px 50px ;
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+  background-image: url('ownerPic.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  border: 2px solid hsl(0, 0%, 38%);
+ 
+}
